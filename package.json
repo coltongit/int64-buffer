@@ -12,12 +12,12 @@
     "Jan Krems <jan.krems@groupon.com>"
   ],
   "devDependencies": {
-    "@types/node": "^10.11.4",
-    "coveralls": "^3.0.2",
-    "jshint": "^2.9.6",
+    "@types/node": "^10.17.52",
+    "coveralls": "^3.1.0",
+    "jshint": "^2.12.0",
     "mocha": "^5.2.0",
-    "nyc": "^13.0.1",
-    "uglify-js": "^3.4.9",
+    "nyc": "^13.3.0",
+    "uglify-js": "^3.12.8",
     "zuul": "^3.12.0"
   },
   "engines": {
